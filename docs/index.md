@@ -7,5 +7,5 @@ Any questions? Feel free to contact us on: https://egdeservice.atlassian.net/ser
 
 | Name  | Description | Auto-deploy | Manual deploy |
 | ---- | ------------ | ----------- | ------------- |
-| Onboard your subscription | We will be granted access to your subscription | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FEgdeConsulting%2FEgde.Lupe%2Fmain%2Fazure-lighthouse%2Ftemplates%2Fdelegated-resource-management%2FdelegatedResourceManagement.json) | [templates](https://github.com/EgdeConsulting/Egde.Lupe/tree/main/azure-lighthouse/templates/delegated-resource-management) |
+| Onboard your subscription | We will be granted access to your subscription | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FEgdeConsulting%2FEgde.Lupe%2Fmain%2Fazure-lighthouse%2Ftemplates%2Fdelegated-resource-management%2FdelegatedResourceManagement.json) | [templates](https://github.com/EgdeConsulting/Egde.Lupe/tree/main/azure-lighthouse/templates/delegated-resource-management) |
 
