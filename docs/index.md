@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome
+This repo is for onboarding users on our Security SaaS, Egde Lupe. If you don't want to use our Azure Marketplace offer, you can use the information or scripts here to onboard your subscription.
 
-You can use the [editor on GitHub](https://github.com/EgdeConsulting/Egde.Lupe/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Any questions? Feel free to contact us on: https://egdeservice.atlassian.net/servicedesk/customer/portal/3/group/7/create/65
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EgdeConsulting/Egde.Lupe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Add your subscription - delegated access
+Name | Description   | Auto-deploy   | Manual deploy |
+-----| ------------- |--------------- |------- 
+| Onboard your subscription | we will be granted access to your subscription | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Lighthouse-samples%2Fmaster%2Ftemplates%2Fdelegated-resource-management%2FdelegatedResourceManagement.json) | [templates](https://github.com/Azure/Azure-Lighthouse-samples/tree/master/templates/delegated-resource-management)
