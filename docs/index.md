@@ -1,7 +1,7 @@
 ## Welcome
 This repo is for onboarding users on our Security SaaS, Egde Lupe. If you don't want to use our Azure Marketplace offer, you can use the information or scripts here to onboard your subscription.
 
-Any questions? Feel free to contact us on: https://egdeservice.atlassian.net/servicedesk/customer/portal/3/group/7/create/65
+Any questions? Feel free to contact us on: [https://egdeservice.atlassian.net/servicedesk/customer/portal/3/group/7/create/65](https://egdeservice.atlassian.net/servicedesk/customer/portal/3/group/7/create/65)
 
 ## Add your subscription - delegated access
 
