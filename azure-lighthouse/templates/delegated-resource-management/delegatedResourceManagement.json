@@ -15,14 +15,14 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "d11067af-01c7-4026-b62f-08a11948d9f9"
+            "defaultValue": "Egde Lupe - Security as a Service"
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "<to be filled out by MSP> Provide your tenant id"
+            "defaultValue": "d11067af-01c7-4026-b62f-08a11948d9f9"
         },
         "authorizations": {
             "type": "array",
