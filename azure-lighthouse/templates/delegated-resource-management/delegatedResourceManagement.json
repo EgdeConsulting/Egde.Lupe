@@ -29,9 +29,8 @@
             "metadata": {
                 "description": "Specify an array of objects, containing tuples of Azure Active Directory principalId, a Azure roleDefinitionId, and an optional principalIdDisplayName. The roleDefinition specified is granted to the principalId in the provider's Active Directory and the principalIdDisplayName is visible to customers."
             },
-            "defaultValue": [
-                {"principalId":"6b3bea58-1873-4c59-8f2c-f75fd1832720","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"PIM_Group"}
-            ]
+            "defaultValue": 
+            [{"principalId":"926d89ad-9aec-4357-99f7-48f4ddde6892","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"MDR Operator Egde"}]
         }
     },
     "variables": {
