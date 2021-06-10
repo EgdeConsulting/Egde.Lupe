@@ -13,21 +13,8 @@
         },
         "authorizations": {
             "value": 
-            [{"principalId":"6600f3c9-7e6b-46d8-b7b4-6cdb06174d29","roleDefinitionId":"87a39d53-fc1b-424a-814c-f7e04687dc9e","principalIdDisplayName":"Lupe-Engineer-Egde"},
-            
-            {"principalId":"6600f3c9-7e6b-46d8-b7b4-6cdb06174d29","roleDefinitionId":"ab8e14d6-4a74-4a29-9ba8-549422addade","principalIdDisplayName":"Lupe-Engineer-Egde"},
-            
-            {"principalId":"6600f3c9-7e6b-46d8-b7b4-6cdb06174d29","roleDefinitionId":"91c1777a-f3dc-4fae-b103-61d183457e46","principalIdDisplayName":"Lupe-Engineer-Egde"},
-            
-            {"principalId":"3a64dc78-51f7-4c67-b1cf-99625d75d9fb","roleDefinitionId":"39bc4728-0917-49c7-9d2c-d95423bc2eb4","principalIdDisplayName":"Lupe-Tier1-Analyst-Egde"},
-            
-            {"principalId":"3a64dc78-51f7-4c67-b1cf-99625d75d9fb","roleDefinitionId":"8d289c81-5878-46d4-8554-54e1e3d8b5cb","principalIdDisplayName":"Lupe-Tier1-Analyst-Egde"},
-            
-            {"principalId":"8ed39684-1276-486e-b30d-8a0bf0db0758","roleDefinitionId":"39bc4728-0917-49c7-9d2c-d95423bc2eb4","principalIdDisplayName":"Lupe-Tier2-Analyst-Egde"},
-            
-            {"principalId":"8ed39684-1276-486e-b30d-8a0bf0db0758","roleDefinitionId":"ab8e14d6-4a74-4a29-9ba8-549422addade","principalIdDisplayName":"Lupe-Tier2-Analyst-Egde"},
-            
-            {"principalId":"8ed39684-1276-486e-b30d-8a0bf0db0758","roleDefinitionId":"87a39d53-fc1b-424a-814c-f7e04687dc9e","principalIdDisplayName":"Lupe-Tier2-Analyst-Egde"}]
+                [{"principalId":"029451ab-9635-4f4a-a231-d1aff0e16aa1","roleDefinitionId":"acdd72a7-3385-48ef-bd42-f606fba81ae7","principalIdDisplayName":"Operations Reader"},
+                {"principalId":"87f82cba-6d84-4805-ac97-f2c79b3eca38","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"Operations Contributor"}]
             }                
         }
 }
