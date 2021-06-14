@@ -12,9 +12,9 @@
             "value": "<insert managing tenant id>"
         },
         "authorizations": {
-            "value": 
-                [{"principalId":"855df38e-82a7-456e-a31b-ea9365466134","roleDefinitionId":"acdd72a7-3385-48ef-bd42-f606fba81ae7","principalIdDisplayName":"Operations Reader"},
-                {"principalId":"a5609000-64d2-4423-a2ce-e716aa01d2fb","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"Operations Contributor"}]
+            "value":                 
+[{"principalId":"855df38e-82a7-456e-a31b-ea9365466134","roleDefinitionId":"acdd72a7-3385-48ef-bd42-f606fba81ae7","principalIdDisplayName":"Operations Reader"},
+{"principalId":"a5609000-64d2-4423-a2ce-e716aa01d2fb","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"Operations Contributor"}]
             }                
         }
 }
