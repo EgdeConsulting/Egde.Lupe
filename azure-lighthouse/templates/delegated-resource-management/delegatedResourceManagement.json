@@ -30,7 +30,8 @@
                 "description": "Specify an array of objects, containing tuples of Azure Active Directory principalId, a Azure roleDefinitionId, and an optional principalIdDisplayName. The roleDefinition specified is granted to the principalId in the provider's Active Directory and the principalIdDisplayName is visible to customers."
             },
             "defaultValue": 
-            [{"principalId":"926d89ad-9aec-4357-99f7-48f4ddde6892","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"MDR Operator Egde"}]
+                [{"principalId":"855df38e-82a7-456e-a31b-ea9365466134","roleDefinitionId":"acdd72a7-3385-48ef-bd42-f606fba81ae7","principalIdDisplayName":"Operations Reader"},
+                {"principalId":"a5609000-64d2-4423-a2ce-e716aa01d2fb","roleDefinitionId":"b24988ac-6180-42a0-ab88-20f7382dd24c","principalIdDisplayName":"Operations Contributor"}]
         }
     },
     "variables": {
